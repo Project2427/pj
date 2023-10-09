@@ -1,0 +1,42 @@
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\obj\Debug\Practical_code_of awp.csproj.AssemblyReference.cache
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\obj\Debug\Practical_code_of awp.csproj.CoreCompileInputs.cache
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\Practical_code_of awp.dll.config
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\Practical_code_of awp.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\Practical_code_of awp.pdb
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\csc.exe
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\csc.exe.config
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\csc.rsp
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\csi.exe
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\csi.exe.config
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\csi.rsp
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Buffers.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Collections.Immutable.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Memory.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Numerics.Vectors.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\vbc.exe
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\vbc.exe.config
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\vbc.rsp
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\VBCSCompiler.exe
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\roslyn\VBCSCompiler.exe.config
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\AjaxControlToolkit.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\obj\Debug\Practical_code_of awp.csproj.CopyComplete
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\obj\Debug\Practical_code_of awp.dll
+D:\Sumit\SEM_5\AWP\Practical_code_of awp\Practical_code_of awp\obj\Debug\Practical_code_of awp.pdb
